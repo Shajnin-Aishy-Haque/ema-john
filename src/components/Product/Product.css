@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    margin-right: 7px;
+}
+.product-name{
+    color: blue;
+    font-size: 400;
+}
+.add-button{
+    background-color: rgb(245, 200, 0);
+    width:200px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
